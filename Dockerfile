@@ -1,0 +1,6 @@
+FROM ubuntu
+RUN
+ADD
+COPY
+WORKDIR
+CMD
