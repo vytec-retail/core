@@ -1,5 +1,5 @@
 FROM ubuntu
-RUN
+RUN apt install tree -y
 ADD
 COPY
 WORKDIR
