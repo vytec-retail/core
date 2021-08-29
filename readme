@@ -1,2 +1,5 @@
 how to build java application:
 mvn clean deploy
+
+how to scan sonarquebe:
+mvn clean deploy sonar:sonar
