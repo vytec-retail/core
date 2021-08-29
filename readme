@@ -1,0 +1,2 @@
+how to build java application:
+mvn clean deploy
