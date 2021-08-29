@@ -3,3 +3,6 @@ mvn clean deploy
 
 how to scan sonarquebe:
 mvn clean deploy sonar:sonar
+
+how to deploy bthe app inot tomcat
+mvn tomcat:tomcat
